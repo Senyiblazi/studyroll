@@ -1,0 +1,1 @@
+mongodb://senyiblazi_db_user:blazi2006@ac-lfleb9r-shard-00-00.3vduuh4.mongodb.net:27017,ac-lfleb9r-shard-00-01.3vduuh4.mongodb.net:27017,ac-lfleb9r-shard-00-02.3vduuh4.mongodb.net:27017/?ssl=true&replicaSet=atlas-5tzm9y-shard-0&authSource=admin&appName=Cluster0
