@@ -3,7 +3,7 @@ const uri = "mongodb://senyiblazi_db_user:blazi2006@ac-lfleb9r-shard-00-00.3vduu
 
 mongoose.connect(uri)
 
-export async function CreateUser() {
+function CreateUser() {
     const userSchema = new mongoose.Schema({
         name: {
             type: String,
